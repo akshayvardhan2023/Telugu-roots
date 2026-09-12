@@ -1,4 +1,4 @@
----
+
 
 ## 📌 Project Title: *TeluguRoots*
 
@@ -73,9 +73,9 @@ To attract users, we plan to:
 
 ## 🧑‍💻 Meet the Team
 
-| Name              | GitLab Username     |
+| Name              | Github Username     |
 |-------------------|---------------------|
-| Akshay             | akshayvardhan2023 |        |
+| Akshay             | akshayvardhan2023 |        
 | Abhiram           | 00abhiram         |
 
 
